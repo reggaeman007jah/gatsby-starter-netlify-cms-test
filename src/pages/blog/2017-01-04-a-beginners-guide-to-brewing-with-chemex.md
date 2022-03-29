@@ -2,9 +2,8 @@
 templateKey: blog-post
 title: Making music with the Moog Werkstatt and Hologram Microcosm
 date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
+description: I have had lots of fun pushing an Arturia Keystep sequence through
+  the Werkstatt and into the Microcosm, using Mosaic.
 featuredpost: false
 featuredimage: /img/chemex.jpg
 tags:
