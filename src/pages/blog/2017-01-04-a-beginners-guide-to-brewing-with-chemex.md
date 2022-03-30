@@ -2,9 +2,36 @@
 templateKey: blog-post
 title: Making music with the Moog Werkstatt and Hologram Microcosm
 date: 2017-01-04T15:04:10.000Z
-description: I have had lots of fun pushing an Arturia Keystep sequence through
-  the Werkstatt and into the Microcosm, using Mosaic.
-featuredpost: false
+description: >-
+  So my current go-to setup is pretty simple. I create a simple sequence on the
+  Keystep, send that to the Werkstatt using CV/Gate, then run the audio output
+  of that into the Microcosm. As the Werkstatt doesn’t (yet) have a volume
+  control, I have put a small Rakit mixer between the Werkstatt and the
+  Microcosm, in order to fine-tune the gain coming through the chain; I’ve found
+  that a hot signal will totally clip-out your audio output, especially when
+  using any reverb, so I’ve found this to be a nice cheap and discrete solution.
+  Finally, I have the Microcosm going out into a Volca Mix, and from there to
+  Ableton for recording.
+
+
+  Now, the benefit of having two mixers here, is that I can add another sound source into the Microcosm (i.e. merging with the output of the Werkstatt), or I can add a totally separate sound, not affected by the ambient Microcosm in any way - good for contrast options, drums etc. Or, I can have both.
+
+
+  One thing I had to learn here was that the Volca Mix needed to fuel the Keystep sync tempo. This might be avoidable in a different setup, but here I need to activate the sequence on the V-mix before hitting play on the Keystep. This is no dramas, and actually adds another layer of potential, as I can now potentially activate a secondary sequence from somewhere else (e.g. a Behringer Crave).
+
+
+  In terms of the performances I am doing, they are essentially one-track-takes of me playing with the various controls on both the Werkstatt and Microcosm, plus some volume control. I am seeing ways to slowly bring in texture from sparse to complex, and I have a couple of ways of naturally fading out any track by dropping the VCF cutoff to a point it no longer triggers effects downstream.
+
+
+  This partnership of Werskstatt and Microcosm is just lovely for me. It has enough control options to keep you pretty busy (I can build in relaxed sips of wine at times), but is simple enough to set up quickly. Perhaps it is too simplistic? There are no drums or alretrative textures here. But I’m finding the stuff that comes through this process to be pretty nice and relaxing.
+
+
+  Here’s a video showing the setup, as well as a quick run-down of some additional techniques, followed by a live jam.
+
+
+
+  Peace
+featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
   - brewing
